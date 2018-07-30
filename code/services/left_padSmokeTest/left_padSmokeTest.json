@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,left_pad",
+    "logging_enabled": "false",
+    "name": "left_padSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "left_padSmokeTest.js"
+}
